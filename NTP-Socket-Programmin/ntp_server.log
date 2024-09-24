@@ -1,0 +1,10 @@
+2024-09-13 11:14:48,999 - Received request from ('127.0.0.1', 35729)
+2024-09-13 11:14:57,571 - Received request from ('127.0.0.1', 35775)
+2024-09-13 11:19:04,112 - Received request from ('127.0.0.1', 39463)
+2024-09-19 14:58:18,065 - Server error: [Errno 13] Permission denied
+2024-09-19 14:58:25,961 - Server error: [Errno 13] Permission denied
+2024-09-19 14:58:45,785 - Received request from ('127.0.0.1', 54525)
+2024-09-19 14:58:50,978 - Received request from ('127.0.0.1', 55763)
+2024-09-19 14:58:56,689 - Received request from ('127.0.0.1', 39388)
+2024-09-19 14:59:37,761 - Received request from ('127.0.0.1', 59706)
+2024-09-19 14:59:39,253 - Received request from ('127.0.0.1', 45529)
